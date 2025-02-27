@@ -39,7 +39,6 @@ export default function ProductList({
         lastPage.metadata.last ? undefined : lastPage.metadata.page + 1,
       refetchOnWindowFocus: false,
       refetchOnReconnect: false,
-      staleTime: 1000 * 60 * 5, // En cache por 5 min
     });
 
   useEffect(() => {
