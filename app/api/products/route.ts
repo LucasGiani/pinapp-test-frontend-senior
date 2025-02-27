@@ -11,7 +11,6 @@ export async function GET(
   const page = Number(searchParams.get('page') || 1);
   const size = Number(searchParams.get('size') || ITEMS_PER_PAGE);
 
-  // Filtrado de productos
   const products =
     (!!search &&
       db.products.filter(
@@ -21,26 +20,11 @@ export async function GET(
       )) ||
     db.products;
 
-  // Opcional: implementar paginación
   const totalElements = products.length;
   const totalPages = Math.ceil(totalElements / size);
   const start = (page - 1) * size;
   const end = start + size;
   const content: Product[] = products.slice(start, end);
-
-  await new Promise((resolve) => setTimeout(resolve, 2000));
-
-  console.log('🌍 [API Route] Request recibido en el servidor:', request.url);
-  console.log(
-    'totalElements:',
-    totalElements,
-    'totalPages:',
-    totalPages,
-    'start:',
-    start,
-    'end:',
-    end
-  );
 
   const metadata: ProductMetadata = {
     page,

@@ -63,14 +63,6 @@ export default function ProductList({
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  useEffect(() => {
-    console.log('🖥️ [Client] useInfiniteQuery ejecutado en el cliente');
-  }, []);
-
-  useEffect(() => {
-    console.log('isRefetching', isRefetching, 'isFetching', isFetching);
-  }, [isRefetching, isFetching]);
-
   const products = data ? data.pages.flatMap((page) => page.content) : [];
 
   return (

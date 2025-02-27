@@ -5,7 +5,6 @@ import { notFound } from 'next/navigation';
 export default async function ProductsPage() {
   try {
     const initialData = await fetchProducts();
-    console.log('📌 [SSR] Fetch inicial en el servidor:', initialData);
 
     return (
       <section className="flex flex-col flex-grow gap-5">
