@@ -1,0 +1,784 @@
+{
+  "products": [
+    {
+      "id": "SKU1001",
+      "sku": "SKU1001",
+      "name": "Zapatillas Deportivas 1",
+      "description": "Zapatillas deportivas de alto rendimiento modelo 1.",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": { "id": "cat1", "name": "Calzado Deportivo" },
+      "brand": "Nike",
+      "price": 50.0,
+      "stock": 20,
+      "specifications": [
+        { "name": "Color", "value": "Negro" },
+        { "name": "Talla", "value": 38 },
+        { "name": "Material", "value": "Malla transpirable" }
+      ]
+    },
+    {
+      "id": "SKU1002",
+      "sku": "SKU1002",
+      "name": "Zapatillas Deportivas 2",
+      "description": "Zapatillas deportivas de alto rendimiento modelo 2.",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": { "id": "cat1", "name": "Calzado Deportivo" },
+      "brand": "Adidas",
+      "price": 55.0,
+      "stock": 21,
+      "specifications": [
+        { "name": "Color", "value": "Blanco" },
+        { "name": "Talla", "value": 39 },
+        { "name": "Material", "value": "Cuero sintético" }
+      ]
+    },
+    {
+      "id": "SKU1003",
+      "sku": "SKU1003",
+      "name": "Zapatillas Deportivas 3",
+      "description": "Zapatillas deportivas de alto rendimiento modelo 3.",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": { "id": "cat1", "name": "Calzado Deportivo" },
+      "brand": "Puma",
+      "price": 60.0,
+      "stock": 22,
+      "specifications": [
+        { "name": "Color", "value": "Azul" },
+        { "name": "Talla", "value": 40 },
+        { "name": "Material", "value": "Goma vulcanizada" }
+      ]
+    },
+    {
+      "id": "SKU1004",
+      "sku": "SKU1004",
+      "name": "Zapatillas Deportivas 4",
+      "description": "Zapatillas deportivas de alto rendimiento modelo 4.",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": { "id": "cat1", "name": "Calzado Deportivo" },
+      "brand": "Reebok",
+      "price": 65.0,
+      "stock": 23,
+      "specifications": [
+        { "name": "Color", "value": "Rojo" },
+        { "name": "Talla", "value": 41 },
+        { "name": "Material", "value": "Tela" }
+      ]
+    },
+    {
+      "id": "SKU1005",
+      "sku": "SKU1005",
+      "name": "Zapatillas Deportivas 5",
+      "description": "Zapatillas deportivas de alto rendimiento modelo 5.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": { "id": "cat1", "name": "Calzado Deportivo" },
+      "brand": "Asics",
+      "price": 70.0,
+      "stock": 24,
+      "specifications": [
+        { "name": "Color", "value": "Gris" },
+        { "name": "Talla", "value": 42 },
+        { "name": "Material", "value": "Sintético" }
+      ]
+    },
+    {
+      "id": "SKU1006",
+      "sku": "SKU1006",
+      "name": "Zapatillas Deportivas Modelo 1006",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Asics",
+      "price": 113.0,
+      "stock": 28,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Amarillo"
+        },
+        {
+          "name": "Talla",
+          "value": "44"
+        },
+        {
+          "name": "Material",
+          "value": "Malla transpirable"
+        }
+      ]
+    },
+    {
+      "id": "SKU1007",
+      "sku": "SKU1007",
+      "name": "Zapatillas Deportivas Modelo 1007",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Mizuno",
+      "price": 118.5,
+      "stock": 31,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Naranja"
+        },
+        {
+          "name": "Talla",
+          "value": "45"
+        },
+        {
+          "name": "Material",
+          "value": "Goma vulcanizada"
+        }
+      ]
+    },
+    {
+      "id": "SKU1008",
+      "sku": "SKU1008",
+      "name": "Zapatillas Deportivas Modelo 1008",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Saucony",
+      "price": 124.0,
+      "stock": 34,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Marrón"
+        },
+        {
+          "name": "Talla",
+          "value": "38"
+        },
+        {
+          "name": "Material",
+          "value": "Textil ligero"
+        }
+      ]
+    },
+    {
+      "id": "SKU1009",
+      "sku": "SKU1009",
+      "name": "Zapatillas Deportivas Modelo 1009",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Salomon",
+      "price": 129.5,
+      "stock": 37,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Violeta"
+        },
+        {
+          "name": "Talla",
+          "value": "39"
+        },
+        {
+          "name": "Material",
+          "value": "Microfibra resistente"
+        }
+      ]
+    },
+    {
+      "id": "SKU1010",
+      "sku": "SKU1010",
+      "name": "Zapatillas Deportivas Modelo 1010",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Nike",
+      "price": 135.0,
+      "stock": 40,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Negro"
+        },
+        {
+          "name": "Talla",
+          "value": "40"
+        },
+        {
+          "name": "Material",
+          "value": "Cuero sintético"
+        }
+      ]
+    },
+    {
+      "id": "SKU1011",
+      "sku": "SKU1011",
+      "name": "Zapatillas Deportivas Modelo 1011",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Adidas",
+      "price": 140.5,
+      "stock": 43,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Blanco"
+        },
+        {
+          "name": "Talla",
+          "value": "41"
+        },
+        {
+          "name": "Material",
+          "value": "Malla transpirable"
+        }
+      ]
+    },
+    {
+      "id": "SKU1012",
+      "sku": "SKU1012",
+      "name": "Zapatillas Deportivas Modelo 1012",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Puma",
+      "price": 146.0,
+      "stock": 46,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Rojo"
+        },
+        {
+          "name": "Talla",
+          "value": "42"
+        },
+        {
+          "name": "Material",
+          "value": "Goma vulcanizada"
+        }
+      ]
+    },
+    {
+      "id": "SKU1013",
+      "sku": "SKU1013",
+      "name": "Zapatillas Deportivas Modelo 1013",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Reebok",
+      "price": 151.5,
+      "stock": 49,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Azul"
+        },
+        {
+          "name": "Talla",
+          "value": "43"
+        },
+        {
+          "name": "Material",
+          "value": "Textil ligero"
+        }
+      ]
+    },
+    {
+      "id": "SKU1014",
+      "sku": "SKU1014",
+      "name": "Zapatillas Deportivas Modelo 1014",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "New Balance",
+      "price": 157.0,
+      "stock": 52,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Verde"
+        },
+        {
+          "name": "Talla",
+          "value": "44"
+        },
+        {
+          "name": "Material",
+          "value": "Microfibra resistente"
+        }
+      ]
+    },
+    {
+      "id": "SKU1015",
+      "sku": "SKU1015",
+      "name": "Zapatillas Deportivas Modelo 1015",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Under Armour",
+      "price": 162.5,
+      "stock": 55,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Gris"
+        },
+        {
+          "name": "Talla",
+          "value": "45"
+        },
+        {
+          "name": "Material",
+          "value": "Cuero sintético"
+        }
+      ]
+    },
+    {
+      "id": "SKU1016",
+      "sku": "SKU1016",
+      "name": "Zapatillas Deportivas Modelo 1016",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Asics",
+      "price": 168.0,
+      "stock": 58,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Amarillo"
+        },
+        {
+          "name": "Talla",
+          "value": "38"
+        },
+        {
+          "name": "Material",
+          "value": "Malla transpirable"
+        }
+      ]
+    },
+    {
+      "id": "SKU1017",
+      "sku": "SKU1017",
+      "name": "Zapatillas Deportivas Modelo 1017",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Mizuno",
+      "price": 173.5,
+      "stock": 11,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Naranja"
+        },
+        {
+          "name": "Talla",
+          "value": "39"
+        },
+        {
+          "name": "Material",
+          "value": "Goma vulcanizada"
+        }
+      ]
+    },
+    {
+      "id": "SKU1018",
+      "sku": "SKU1018",
+      "name": "Zapatillas Deportivas Modelo 1018",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Saucony",
+      "price": 179.0,
+      "stock": 14,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Marrón"
+        },
+        {
+          "name": "Talla",
+          "value": "40"
+        },
+        {
+          "name": "Material",
+          "value": "Textil ligero"
+        }
+      ]
+    },
+    {
+      "id": "SKU1019",
+      "sku": "SKU1019",
+      "name": "Zapatillas Deportivas Modelo 1019",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Salomon",
+      "price": 184.5,
+      "stock": 17,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Violeta"
+        },
+        {
+          "name": "Talla",
+          "value": "41"
+        },
+        {
+          "name": "Material",
+          "value": "Microfibra resistente"
+        }
+      ]
+    },
+    {
+      "id": "SKU1020",
+      "sku": "SKU1020",
+      "name": "Zapatillas Deportivas Modelo 1020",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Nike",
+      "price": 80.0,
+      "stock": 20,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Negro"
+        },
+        {
+          "name": "Talla",
+          "value": "42"
+        },
+        {
+          "name": "Material",
+          "value": "Cuero sintético"
+        }
+      ]
+    },
+    {
+      "id": "SKU1021",
+      "sku": "SKU1021",
+      "name": "Zapatillas Deportivas Modelo 1021",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Adidas",
+      "price": 85.5,
+      "stock": 23,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Blanco"
+        },
+        {
+          "name": "Talla",
+          "value": "43"
+        },
+        {
+          "name": "Material",
+          "value": "Malla transpirable"
+        }
+      ]
+    },
+    {
+      "id": "SKU1022",
+      "sku": "SKU1022",
+      "name": "Zapatillas Deportivas Modelo 1022",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Puma",
+      "price": 91.0,
+      "stock": 26,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Rojo"
+        },
+        {
+          "name": "Talla",
+          "value": "44"
+        },
+        {
+          "name": "Material",
+          "value": "Goma vulcanizada"
+        }
+      ]
+    },
+    {
+      "id": "SKU1023",
+      "sku": "SKU1023",
+      "name": "Zapatillas Deportivas Modelo 1023",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Reebok",
+      "price": 96.5,
+      "stock": 29,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Azul"
+        },
+        {
+          "name": "Talla",
+          "value": "45"
+        },
+        {
+          "name": "Material",
+          "value": "Textil ligero"
+        }
+      ]
+    },
+    {
+      "id": "SKU1024",
+      "sku": "SKU1024",
+      "name": "Zapatillas Deportivas Modelo 1024",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "New Balance",
+      "price": 102.0,
+      "stock": 32,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Verde"
+        },
+        {
+          "name": "Talla",
+          "value": "38"
+        },
+        {
+          "name": "Material",
+          "value": "Microfibra resistente"
+        }
+      ]
+    },
+    {
+      "id": "SKU1025",
+      "sku": "SKU1025",
+      "name": "Zapatillas Deportivas Modelo 1025",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Under Armour",
+      "price": 107.5,
+      "stock": 35,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Gris"
+        },
+        {
+          "name": "Talla",
+          "value": "39"
+        },
+        {
+          "name": "Material",
+          "value": "Cuero sintético"
+        }
+      ]
+    },
+    {
+      "id": "SKU1026",
+      "sku": "SKU1026",
+      "name": "Zapatillas Deportivas Modelo 1026",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Asics",
+      "price": 113.0,
+      "stock": 38,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Amarillo"
+        },
+        {
+          "name": "Talla",
+          "value": "40"
+        },
+        {
+          "name": "Material",
+          "value": "Malla transpirable"
+        }
+      ]
+    },
+    {
+      "id": "SKU1027",
+      "sku": "SKU1027",
+      "name": "Zapatillas Deportivas Modelo 1027",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Mizuno",
+      "price": 118.5,
+      "stock": 41,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Naranja"
+        },
+        {
+          "name": "Talla",
+          "value": "41"
+        },
+        {
+          "name": "Material",
+          "value": "Goma vulcanizada"
+        }
+      ]
+    },
+    {
+      "id": "SKU1028",
+      "sku": "SKU1028",
+      "name": "Zapatillas Deportivas Modelo 1028",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Saucony",
+      "price": 124.0,
+      "stock": 44,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Marrón"
+        },
+        {
+          "name": "Talla",
+          "value": "42"
+        },
+        {
+          "name": "Material",
+          "value": "Textil ligero"
+        }
+      ]
+    },
+    {
+      "id": "SKU1029",
+      "sku": "SKU1029",
+      "name": "Zapatillas Deportivas Modelo 1029",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Salomon",
+      "price": 129.5,
+      "stock": 47,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Violeta"
+        },
+        {
+          "name": "Talla",
+          "value": "43"
+        },
+        {
+          "name": "Material",
+          "value": "Microfibra resistente"
+        }
+      ]
+    },
+    {
+      "id": "SKU1030",
+      "sku": "SKU1030",
+      "name": "Zapatillas Deportivas Modelo 1030",
+      "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "category": {
+        "id": "cat1",
+        "name": "Calzado Deportivo"
+      },
+      "brand": "Nike",
+      "price": 135.0,
+      "stock": 50,
+      "specifications": [
+        {
+          "name": "Color",
+          "value": "Negro"
+        },
+        {
+          "name": "Talla",
+          "value": "44"
+        },
+        {
+          "name": "Material",
+          "value": "Cuero sintético"
+        }
+      ]
+    }
+  ]
+}

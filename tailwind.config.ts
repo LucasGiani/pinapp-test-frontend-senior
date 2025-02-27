@@ -1,16 +1,20 @@
-import type { Config } from "tailwindcss";
+import type { Config } from 'tailwindcss';
 
 export default {
-  content: [
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+  darkMode: 'media',
+  content: ['./app/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+  safelist: [
+    'grid-cols-1',
+    'sm:grid-cols-2',
+    'lg:grid-cols-3',
+    'xl:grid-cols-4',
   ],
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: '#4f75c2',
+        darkBg: '#121212',
+        lightBg: '#f8f9fa',
       },
     },
   },
