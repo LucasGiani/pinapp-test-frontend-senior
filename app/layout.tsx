@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import LayoutWrapper from '@/components/layout/LayoutWrapper';
 import './globals.css';
 import { PropsWithChildren } from 'react';
-import Providers from '@/components/layout/providers';
+import QueryProvider from '@/components/layout/QueryProvider';
 
 export const metadata: Metadata = {
   title: 'Mi Tienda Online',
@@ -13,9 +13,9 @@ export default function RootLayout({ children }: PropsWithChildren) {
   return (
     <html lang="es">
       <body className="flex flex-col min-h-screen bg-lightBg dark:bg-darkBg text-gray-900 dark:text-gray-100">
-        <Providers>
+        <QueryProvider>
           <LayoutWrapper>{children}</LayoutWrapper>
-        </Providers>
+        </QueryProvider>
       </body>
     </html>
   );
