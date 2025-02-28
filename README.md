@@ -19,30 +19,30 @@ La aplicación es un catálogo de productos que permite visualizar una lista de 
 ## 📂 Estructura del Proyecto
 
 /app
-├── api/ <!-- API Routes (manejo de datos del backend) -->
-│ ├── products/route.ts — Endpoint para listado y búsqueda de productos
-│ ├── products/[sku]/route.ts — Endpoint para obtener detalles de un producto
-├── products/ <!-- Páginas del catálogo -->
-│ ├── [sku]/page.tsx — Página de detalle del producto
-│ ├── [sku]/not-found.tsx — Página de producto inexistente
-├── layout.tsx — Layout global de la app
-├── page.tsx — Página de listado de productos
-├── loading.tsx — Página de loading inicial
-├── not-found.tsx — Página de productos no encontrados (error 404)
-├── error.tsx — Página de error 500
-├── types.ts — Tipado de los modelos de datos
+  api/ <!-- API Routes (manejo de datos del backend) -->
+    products/route.ts — Endpoint para listado y búsqueda de productos
+    products/[sku]/route.ts — Endpoint para obtener detalles de un producto
+  products/ <!-- Páginas del catálogo -->
+    [sku]/page.tsx — Página de detalle del producto
+    [sku]/not-found.tsx — Página de producto inexistente
+  layout.tsx — Layout global de la app
+  page.tsx — Página de listado de productos
+  loading.tsx — Página de loading inicial
+  not-found.tsx — Página de productos no encontrados (error 404)
+  error.tsx — Página de error 500
+  types.ts — Tipado de los modelos de datos
 /components/ <!-- Componentes reutilizables -->
-│ ├── layout/
-│ │ ├── Navbar.tsx — Navbar de navegación
-│ │ ├── Footer.tsx — Footer de la aplicación
-│ │ ├── QueryProvider.tsx — Context Providers (React Query)
-│ │ ├── LayoutWrapper.tsx — Encapsulado del Layout
-│ ├── products/
-│ │ ├── EmptyState.tsx — Estado para cuando no se encuentran productos
-│ │ ├── ProductList.tsx — Listado de productos con paginación
-│ │ ├── ProductCard.tsx — Card de cada producto en el listado
-│ │ ├── SearchInput.tsx — Input de búsqueda con debounce
-│ │ ├── ProductSkeleton.tsx — Placeholder de carga para mejorar UX
+  layout/
+    Navbar.tsx — Navbar de navegación
+    Footer.tsx — Footer de la aplicación
+    QueryProvider.tsx — Context Providers (React Query)
+    LayoutWrapper.tsx — Encapsulado del Layout
+  products/
+    EmptyState.tsx — Estado para cuando no se encuentran productos
+    ProductList.tsx — Listado de productos con paginación
+    ProductCard.tsx — Card de cada producto en el listado
+    SearchInput.tsx — Input de búsqueda con debounce
+    ProductSkeleton.tsx — Placeholder de carga para mejorar UX
 /utils/api.ts — Centralización de fetch a la API
 /utils/constants.ts — Constantes útiles
 
