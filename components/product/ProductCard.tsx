@@ -9,7 +9,7 @@ export default function ProductCard({ product }: { product: Product }) {
         href={`/products/${product.sku}`}
         className="flex flex-col flex-grow"
       >
-        <div className="relative w-full h-52 rounded-t-lg overflow-hidden">
+        <div className="relative w-full h-52 rounded-t-lg overflow-hidden bg-gray-400 dark:bg-gray-600">
           <Image
             src={product.image}
             alt={product.name}
@@ -17,7 +17,7 @@ export default function ProductCard({ product }: { product: Product }) {
             style={{ objectFit: 'cover' }}
           />
         </div>
-        <div className="p-4 flex flex-col flex-grow justify-between gap-2">
+        <div className="p-4 flex flex-col flex-grow justify-between gap-1">
           <h2 className="text-lg font-semibold text-gray-900 dark:text-white">
             {product.name}
           </h2>

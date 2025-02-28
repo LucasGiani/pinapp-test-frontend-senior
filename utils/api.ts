@@ -11,7 +11,8 @@ export async function fetchProducts({
   size: number;
 }> = {}): Promise<ProductsResponse> {
   const res = await fetch(
-    `${API_URL}/products?search=${encodeURIComponent(search)}&page=${page}&size=${size}`
+    `${API_URL}/products?search=${encodeURIComponent(search)}&page=${page}&size=${size}`,
+    { cache: 'no-store' }
   );
 
   if (!res.ok) {
