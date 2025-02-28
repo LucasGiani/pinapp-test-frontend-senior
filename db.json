@@ -5,7 +5,7 @@
       "sku": "SKU1001",
       "name": "Zapatillas Deportivas 1",
       "description": "Zapatillas deportivas de alto rendimiento modelo 1.",
-      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
       "category": { "id": "cat1", "name": "Calzado Deportivo" },
       "brand": "Nike",
       "price": 50.0,
@@ -21,9 +21,9 @@
       "sku": "SKU1002",
       "name": "Zapatillas Deportivas 2",
       "description": "Zapatillas deportivas de alto rendimiento modelo 2.",
-      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86",
       "category": { "id": "cat1", "name": "Calzado Deportivo" },
-      "brand": "Adidas",
+      "brand": "Nike",
       "price": 55.0,
       "stock": 21,
       "specifications": [
@@ -37,9 +37,9 @@
       "sku": "SKU1003",
       "name": "Zapatillas Deportivas 3",
       "description": "Zapatillas deportivas de alto rendimiento modelo 3.",
-      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519",
       "category": { "id": "cat1", "name": "Calzado Deportivo" },
-      "brand": "Puma",
+      "brand": "Nike",
       "price": 60.0,
       "stock": 22,
       "specifications": [
@@ -53,9 +53,9 @@
       "sku": "SKU1004",
       "name": "Zapatillas Deportivas 4",
       "description": "Zapatillas deportivas de alto rendimiento modelo 4.",
-      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a",
       "category": { "id": "cat1", "name": "Calzado Deportivo" },
-      "brand": "Reebok",
+      "brand": "Nike",
       "price": 65.0,
       "stock": 23,
       "specifications": [
@@ -69,9 +69,9 @@
       "sku": "SKU1005",
       "name": "Zapatillas Deportivas 5",
       "description": "Zapatillas deportivas de alto rendimiento modelo 5.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f",
       "category": { "id": "cat1", "name": "Calzado Deportivo" },
-      "brand": "Asics",
+      "brand": "Nike",
       "price": 70.0,
       "stock": 24,
       "specifications": [
@@ -85,12 +85,12 @@
       "sku": "SKU1006",
       "name": "Zapatillas Deportivas Modelo 1006",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Asics",
+      "brand": "Nike",
       "price": 113.0,
       "stock": 28,
       "specifications": [
@@ -113,12 +113,12 @@
       "sku": "SKU1007",
       "name": "Zapatillas Deportivas Modelo 1007",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1605348532760-6753d2c43329",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Mizuno",
+      "brand": "Nike",
       "price": 118.5,
       "stock": 31,
       "specifications": [
@@ -141,12 +141,12 @@
       "sku": "SKU1008",
       "name": "Zapatillas Deportivas Modelo 1008",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1588099768550-4014589e03e0",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Saucony",
+      "brand": "Nike",
       "price": 124.0,
       "stock": 34,
       "specifications": [
@@ -169,12 +169,12 @@
       "sku": "SKU1009",
       "name": "Zapatillas Deportivas Modelo 1009",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1521774971864-62e842046145",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Salomon",
+      "brand": "Adidas",
       "price": 129.5,
       "stock": 37,
       "specifications": [
@@ -225,12 +225,12 @@
       "sku": "SKU1011",
       "name": "Zapatillas Deportivas Modelo 1011",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1611510338559-2f463335092c",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Adidas",
+      "brand": "Nike",
       "price": 140.5,
       "stock": 43,
       "specifications": [
@@ -253,12 +253,12 @@
       "sku": "SKU1012",
       "name": "Zapatillas Deportivas Modelo 1012",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1603787081151-cbebeef20092",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Puma",
+      "brand": "Jordan",
       "price": 146.0,
       "stock": 46,
       "specifications": [
@@ -281,12 +281,12 @@
       "sku": "SKU1013",
       "name": "Zapatillas Deportivas Modelo 1013",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Reebok",
+      "brand": "New Balance",
       "price": 151.5,
       "stock": 49,
       "specifications": [
@@ -309,12 +309,12 @@
       "sku": "SKU1014",
       "name": "Zapatillas Deportivas Modelo 1014",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1575456456278-936c89ccdb7b",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "New Balance",
+      "brand": "Asics",
       "price": 157.0,
       "stock": 52,
       "specifications": [
@@ -337,12 +337,12 @@
       "sku": "SKU1015",
       "name": "Zapatillas Deportivas Modelo 1015",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1582898967731-b5834427fd66",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Under Armour",
+      "brand": "Salomon",
       "price": 162.5,
       "stock": 55,
       "specifications": [
@@ -365,12 +365,12 @@
       "sku": "SKU1016",
       "name": "Zapatillas Deportivas Modelo 1016",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Asics",
+      "brand": "Adidas",
       "price": 168.0,
       "stock": 58,
       "specifications": [
@@ -393,12 +393,12 @@
       "sku": "SKU1017",
       "name": "Zapatillas Deportivas Modelo 1017",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1656057903797-175389ce695d",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Mizuno",
+      "brand": "Adidas",
       "price": 173.5,
       "stock": 11,
       "specifications": [
@@ -421,12 +421,12 @@
       "sku": "SKU1018",
       "name": "Zapatillas Deportivas Modelo 1018",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Saucony",
+      "brand": "Adidas",
       "price": 179.0,
       "stock": 14,
       "specifications": [
@@ -449,12 +449,12 @@
       "sku": "SKU1019",
       "name": "Zapatillas Deportivas Modelo 1019",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1556278777-a2a98c0d56da",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Salomon",
+      "brand": "Adidas",
       "price": 184.5,
       "stock": 17,
       "specifications": [
@@ -477,12 +477,12 @@
       "sku": "SKU1020",
       "name": "Zapatillas Deportivas Modelo 1020",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1562183241-b937e95585b6",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Nike",
+      "brand": "Adidas",
       "price": 80.0,
       "stock": 20,
       "specifications": [
@@ -505,7 +505,7 @@
       "sku": "SKU1021",
       "name": "Zapatillas Deportivas Modelo 1021",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1623018996682-717d5c453907",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
@@ -533,7 +533,7 @@
       "sku": "SKU1022",
       "name": "Zapatillas Deportivas Modelo 1022",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1612188852779-079df9e6dcc7",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
@@ -561,12 +561,12 @@
       "sku": "SKU1023",
       "name": "Zapatillas Deportivas Modelo 1023",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1638127277360-4508050a933a",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Reebok",
+      "brand": "Adidas",
       "price": 96.5,
       "stock": 29,
       "specifications": [
@@ -589,12 +589,12 @@
       "sku": "SKU1024",
       "name": "Zapatillas Deportivas Modelo 1024",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1579446650032-86effeeb3389",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "New Balance",
+      "brand": "Nike",
       "price": 102.0,
       "stock": 32,
       "specifications": [
@@ -617,12 +617,12 @@
       "sku": "SKU1025",
       "name": "Zapatillas Deportivas Modelo 1025",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1603036050141-c61fde866f5c",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Under Armour",
+      "brand": "Nike",
       "price": 107.5,
       "stock": 35,
       "specifications": [
@@ -645,12 +645,12 @@
       "sku": "SKU1026",
       "name": "Zapatillas Deportivas Modelo 1026",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1469395446868-fb6a048d5ca3",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Asics",
+      "brand": "Nike",
       "price": 113.0,
       "stock": 38,
       "specifications": [
@@ -673,12 +673,12 @@
       "sku": "SKU1027",
       "name": "Zapatillas Deportivas Modelo 1027",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1621315271772-28b1f3a5df87",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Mizuno",
+      "brand": "New Balance",
       "price": 118.5,
       "stock": 41,
       "specifications": [
@@ -701,12 +701,12 @@
       "sku": "SKU1028",
       "name": "Zapatillas Deportivas Modelo 1028",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1628253747716-0c4f5c90fdda",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Saucony",
+      "brand": "Nike",
       "price": 124.0,
       "stock": 44,
       "specifications": [
@@ -729,12 +729,12 @@
       "sku": "SKU1029",
       "name": "Zapatillas Deportivas Modelo 1029",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1593081891731-fda0877988da",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
       },
-      "brand": "Salomon",
+      "brand": "Jordan",
       "price": 129.5,
       "stock": 47,
       "specifications": [
@@ -757,7 +757,7 @@
       "sku": "SKU1030",
       "name": "Zapatillas Deportivas Modelo 1030",
       "description": "Zapatillas deportivas de alto rendimiento, ideales para entrenamientos y actividades físicas.",
-      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+      "image": "https://images.unsplash.com/photo-1605408499391-6368c628ef42",
       "category": {
         "id": "cat1",
         "name": "Calzado Deportivo"
