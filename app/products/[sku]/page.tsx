@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 export default async function ProductDetailPage({ params }: PageProps) {
-  const resolvedParams = await Promise.resolve(params);
+  const resolvedParams = await params;
   const { sku } = resolvedParams;
 
   if (!sku) return notFound();
